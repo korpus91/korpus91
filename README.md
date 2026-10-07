@@ -22,6 +22,10 @@ Network and OT security engineer with 13+ years building and defending enterpris
 
 Every tool here is read-only by design: it observes and reports, it never changes a device.
 
+## Writing
+
+Field notes on network and OT security: [korpus91.github.io](https://korpus91.github.io)
+
 ## Contact
 
 Security reports for any project: see its SECURITY.md. Consulting inquiries: Arkadiy@aglitch.com
